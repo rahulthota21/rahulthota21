@@ -72,7 +72,6 @@
 | Project | Description |
 |--------|-------------|
 | [Mock'n-Hire](https://github.com/rahulthota21/mock-n-hire) | AI-powered Resume Screener and Mock Interview System |
-| [Smart Patient Monitor](https://github.com/rahulthota21/smart-patient-monitor) | Real-time health vitals dashboard built with Next.js and Express |
 | [Personal Portfolio](https://rahulthota21.netlify.app/) | A sleek and modern portfolio showcasing my work and projects |
 
 ---

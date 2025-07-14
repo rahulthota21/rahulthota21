@@ -1,7 +1,7 @@
 <!-- GitHub Profile README - Thota Rahul -->
 
 <h1 align="center">Hi 👋, I'm Thota Rahul</h1>
-<h3 align="center">Full Stack Developer 🚀 | Aspiring AIML Engineer 🤖</h3>
+<h3 align="center">Aspiring AIML Engineer 🤖 | Full Stack Developer 🚀 </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Crafting%20Modern%20Web%20Apps%20💻;Building%20AI-Powered%20Solutions%20🧠;Open%20to%20Opportunities%20🌍&center=true&width=440&height=45&color=58A6FF&vCenter=true&pause=1000&size=22" />

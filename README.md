@@ -76,4 +76,4 @@
 
 ---
 
-Want more updates? Follow and star to stay in the loop ⭐
+Want more updates? Follow and star to stay in the loop !

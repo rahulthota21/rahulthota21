@@ -64,6 +64,7 @@
 - 🧠 LLM Prompt Engineering & Custom Finetuning
 - ☁️ Google Cloud & CI/CD with Docker
 - 📱 Building Interactive Dashboards & Real-time UIs
+-     Ai Agents
 
 ---
 

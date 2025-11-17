@@ -10,7 +10,7 @@
 
 ---
 
-### 🧑‍💻 About Me
+### 🧑‍💻 About Me:
 
 - 🔭 Working on **Mock'n-Hire** – an AI Resume Screener + Interview Bot.
 - 💡 Passionate about **LLMs**, **CV**, **Full Stack**, and **Open Source**.
